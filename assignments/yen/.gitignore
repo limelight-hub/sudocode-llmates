@@ -1,0 +1,3 @@
+# Ignore dataset
+assignments/yen/week1/data/*
+!assignments/yen/week1/data/.gitkeep
