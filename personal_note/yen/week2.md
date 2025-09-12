@@ -24,9 +24,9 @@ Class **FeatureHasher** is a high-speed, low-memory vectorizer that uses a techn
 * Pros: High-speed, using for large data.
 * Cons: cannot inverse_transform
 
-* title + content â†’ tÃ¡ch token vÃ  dÃ¹ng lÃ m feature token counts
-* source, topic, author â†’ Ä‘Æ°a vÃ o nhÆ° categorical (value = 1)
-* picture_count, processed â†’ numeric giá»¯ nguyÃªn
+* title + content: tokenize to use for feature token counts
+* source, topic, author: categorical (value = 1)
+* picture_count, processed: numerical features
 
 # **TEXT FEATURE EXTRACTION**
 ---
